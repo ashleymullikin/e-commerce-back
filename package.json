@@ -11,13 +11,10 @@
     },
     "repository": {
       "type": "git",
-      "url": "git@github.com:jpd61/e-commerce-backend.git"
+      "url": "git@github.com:ashleymullikin/e-commerce-back.git"
     },
     "keywords": [],
-    "author": "Joseph DeWoody",
-    "license": "ISC",
-    "devDependencies": {
-      "nodemon": "^2.0.3"
+    "author": "Ashley Mullikin",
     },
     "dependencies": {
       "dotenv": "^8.2.0",
