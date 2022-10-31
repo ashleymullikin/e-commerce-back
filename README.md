@@ -4,7 +4,8 @@
 
 Github: https://github.com/ashleymullikin/e-commerce-back
 
-Video Walkthrough: 
+Video Walkthrough: https://drive.google.com/file/d/1PCsgFUNQENs_aCimhTGGdRA6diFSfFWf/view
+
 
   
 ## User Story
